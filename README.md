@@ -7,13 +7,14 @@ Hello Friends! Introducing the E-Commerce Transaction CRUD API is a simple REST 
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-  - [Configuration](#configuration)
-  - [Running the Server](#running-the-server)
-- [API Endpoints](#api-endpoints)
-- [Data Structure](#data-structure)
+  - [API End Points](#features-api-end-points)
+  - [Data Structure](#features-data-structure)
 - [Usage](#usage)
+  - [Retrieve All Transactions](#retrieve-all-transactions)
+  - [Create a New Transaction](#create-a-new-transaction)
+  - [Update a Transaction](#update-a-transaction)
+  - [Patch a Transaction](#patch-a-transaction)
+  - [Delete a Transaction](#delete-a-transaction)
 - [Contributing](#contributing)
 - [License](#license)
 
