@@ -1,6 +1,6 @@
 # 💰👨🏽‍💻 E-Commerce Transaction CRUD API (Version 1 - Alpha)
 
-## API Endpoint: https://ecommerce-trx-api-v1a.fly.dev/transactions/
+## API Endpoint: https://ecommerce-trx-api-v1a.fly.dev
 
 Hello Friends! Introducing the E-Commerce Transaction CRUD API is a simple REST API server built using Node.js, Express, and TypeScript. It allows users to perform basic CRUD operations on financial transactions, including creating, reading, updating, and deleting transactions.
 
